@@ -1,0 +1,10 @@
+Blasco,Aguilera,ADELINA,120-6080 Tincidunt Av.,        7617149010,lamh007@hotmail.com
+Crespo,Flor,CARINA,Apdo.:302-3428 Proin,        633214118,dimmelus@yahoo.com
+Bravo,Calderon,DEMETRIO,486-1924 In Calle,        6372900318,mari_el_x100pre@hotmail.es
+Aguilera,Ferrero,ADALBERTO	,Apdo.:596-1161 Quis Carretera,        6915535892,alvinjade_007@yahoo.com.ph
+Fonseca,Fajardo,AGUEDA,Apdo.:463-5070 Consectetuer C.,        7195806462,dimmelus@yahoo.com
+Flores,Aguilera,AMARANTO,525-2658 At C/,        6348655780,bybio12@yahoo.com
+Fajardo,Duran,ANTONIA,Apartado n�m.: 425, 1859 Ac C.,        7329331212,bilaldahir@hotmail.com
+Blanco,Ferrani,AGATA,572-9155 Varius Ctra.,        ,nusaibap@yahoo.com
+Florez,Angel,ANASTASIA,525-2658 At C/,        8983287293,qwanis@yahoo.com
+Contreras,Domenech,AMANCIO,Apartado n�m.: 230, 6765 Luctus. Avda.,        8969119047,alexasol40@hotmail.com
